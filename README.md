@@ -1,4 +1,4 @@
-# CURRENTLY IN BETA!
+# DEPRECATED
 
 <div align="center">
 <p>
